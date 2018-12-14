@@ -7,7 +7,7 @@ This application requires two infrastructure items to run. Connection details ca
 be configured through application.properties. The settings as check-in assume that
 we're running everything on localhost with default ports.
 
-The application needs Axon Server. See https://axoniq.io for various options of
+The application needs Axon Server. See https://axoniq.io/download for various options of
 obtaining Axon Server (Docker image, jar download).
 
 Also, we need Postgres for our read model and token store. The easiest way to get
